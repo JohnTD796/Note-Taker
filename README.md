@@ -21,6 +21,7 @@
 
   ## Credits
   I utilized the Expert learning assistant as well as the miniproject from our course material to hepl me figure out how to complete this challenge.
+  Also used fsUtils.js from the MiniProject to update db.json file as the instructor suggested.
 
   ## Gihub-Repository
   https://github.com/JohnTD796/Note-Taker.git
